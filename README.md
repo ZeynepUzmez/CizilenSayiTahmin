@@ -7,7 +7,7 @@ Daha sonra mnist_extractor.py ı çalıştırıyoruz Bu işlem sonucunda svm_mod
 <br>
 Daha sonra sırasıyla mnis_trainer.py ve test.py ı çalıştırıyoruz.
 <br>
-Ekran çıktıları 
+Ekran çıktıları <br>
 <img src="tahmin1.JPG" alt="birincitahmin"><br>
 <img src="tahmin2.JPG" alt="birincitahmin"><br>
 <img src="tahmin3.JPG" alt="birincitahmin"><br>
